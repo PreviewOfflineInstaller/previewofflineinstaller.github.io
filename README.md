@@ -1,11 +1,19 @@
+
+<!--
 ##### Download New Google Chrome Offline Installer
 ##### Google Chrome Standalone Offline Installer Preview More Download
-
+-->
 <!--
 Download.New.Google.Chrome.Offline.Installer
 Google Chrome Standalone Offline Installer Preview More Download
 -->
 
+<div align="center">
+
+ <br /> <p>
+
+<a href="https://www.google.com/intl/en/chrome/"><img src="https://raw.githubusercontent.com/CreateBrowser/AutoGetFeaturesCefSharpBrowserDesktopPC/master/Public/CefSharp.png" width="300" /></a>
+   
 
 Download Google Chrome Full Standalone Offline Installer
 
