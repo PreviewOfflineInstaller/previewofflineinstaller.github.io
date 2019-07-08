@@ -7,7 +7,7 @@ Google Chrome Standalone Offline Installer Preview More Download
 <!--
 Download Google Chrome Full Standalone Offline Installer
 -->
-***
+
 
 <!--
 Download Google Chrome Offline (32-bit) Installer
