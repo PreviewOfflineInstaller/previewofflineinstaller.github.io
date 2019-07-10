@@ -29,16 +29,16 @@ Google Chrome Standalone Offline Installer Preview More Download
  
 ---
 
-| Google Chrome Offline | (64-bit) | (32-bit) | :new: | 
+| Google Chrome Offline | (64-bit) | (32-bit) | Standalone :new: | 
 |-------------|------------|-----|--------|
-| :+1: Download Windows| [Standalone Installer Windows (64-bit)](https://www.google.com/intl/en/chrome/browser/desktop/index.html?standalone=1&platform=win64) | [Standalone Installer Windows (32-bit)](https://www.google.com/intl/en/chrome/browser/desktop/index.html?standalone=1&platform=win) | links |   
-| :+1: Download Windows| [Standalone Installer (64-bit)](https://www.google.com/intl/en/chrome/?standalone=1&platform=win64) | [Standalone Installer (32-bit)](https://www.google.com/intl/en/chrome/?standalone=1&platform=win) | links |   
+| :+1: Download Windows| [Standalone Installer Windows (64-bit)](https://www.google.com/intl/en/chrome/browser/desktop/index.html?standalone=1&platform=win64) | [Standalone Installer Windows (32-bit)](https://www.google.com/intl/en/chrome/browser/desktop/index.html?standalone=1&platform=win) | Full |   
+| :+1: Download Windows| [Standalone Installer (64-bit)](https://www.google.com/intl/en/chrome/?standalone=1&platform=win64) | [Standalone Installer (32-bit)](https://www.google.com/intl/en/chrome/?standalone=1&platform=win) | Full |   
 
 
 | Google Chrome Offline System |  (64-bit) | (32-bit) | 
 |---------------|---------------|--------------------------|
-| all user accounts | [<H6>Installer for All User Accounts (64-bit)</H6>]()  | [<H6>Installer for All User Accounts (32-bit)</H6>]() |
-| single user account | [<H6>Installer for Single User Accounts (64-bit)</H6>]() | [<H6>Installer for Single User Accounts (32-bit)</H6>]() |
+| all user accounts | [<H6>Installer for All User Accounts (64-bit)</H6>](https://www.google.com/chrome/?system=true&standalone=1&platform=win64)  | [<H6>Installer for All User Accounts (32-bit)</H6>](https://www.google.com/chrome/?system=true&standalone=1&platform=win) |
+| single user account | [<H6>Installer for Single User Accounts (64-bit)</H6>](https://www.google.com/chrome/?standalone=1&platform=win64) | [<H6>Installer for Single User Accounts (32-bit)</H6>](https://www.google.com/chrome/?standalone=1&platform=win) |
 
 
 
