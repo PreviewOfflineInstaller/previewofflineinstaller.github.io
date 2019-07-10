@@ -1,4 +1,3 @@
-
 <!DOCTYPE html><!--[if IE 9 ]>
 <html class="no-js ie ie9" lang="en" dir="ltr"><![endif]--><!--[if IE 8 ]>
 <html class="no-js ie ie8" lang="en" dir="ltr"><![endif]--><!--[if IE 7 ]>
@@ -183,10 +182,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
  <li class="chr-footer-language-dropdown">
                       <label for="language-selector">Change language or region</label>
                       <select class="chr-footer-language-dropdown__select js-footer-language-select" id="language-selector" onchange="window.location.href=this[this.selectedIndex].value + window.location.search"  ga-on="click"  ga-event-category="chrome-footer-dropdown" ga-event-action="clicked" ga-event-label="footer:select-language" data-g-event="chrome-footer-dropdown" data-g-action="clicked" data-g-label="footer:select-language" >           
-                        <option value="https://www.google.com/intl/en_uk/chrome/" >English - United Kingdom</option>
-                        <option value="https://www.google.com/intl/en_us/chrome/" >English - United States</option>
+
+                        <option value="https://www.google.com/intl/en_us/chrome/" selected>English - United States</option>
+                          <option value="https://www.google.com/intl/en_uk/chrome/" >English - United Kingdom</option>
+                        
                         <option value="https://www.google.com/intl/ru/chrome/" >Русский - Россия</option>
-                        <option value="https://www.google.com/intl/ar/chrome/"  selected>العربية - المملكة العربية السعودية</option>
                         <option value="https://www.google.com/intl/zh-CN/chrome/" >中文 - 中国</option>
                         <option value="https://www.google.com/intl/zh-HK/chrome/" >中文 - 中国香港特别行政区</option>
                         <option value="https://www.google.com/intl/zh-TW/chrome/" >中文 - 台灣</option>
@@ -262,7 +262,46 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 </div>
 <div id="js-other-platform-modal" class="other-platform stablechannel">
-             
+         
+<li class="other-ios">
+        <a href="//itunes.apple.com/us/app/chrome/id535886823"  id="js-other-ios" target="_blank" rel="noopener" ga-on="click"  ga-event-category="chrome-cta-button" ga-event-action="clicked" ga-event-label="other-platforms:ios" data-g-event="chrome-cta-button" data-g-action="clicked" data-g-label="other-platforms:ios" >iOS</a></li>
+</ul>
+<h4 >Download for another desktop OS</h4>
+<ul >
+<li class="other-win64">
+        <a href="#"  id="js-other-win64" class=" js-other-option"  ga-on="click"  ga-event-category="chrome-cta-button" ga-event-action="clicked" ga-event-label="other-platforms:windows-7-to-10-64-bit" data-g-event="chrome-cta-button" data-g-action="clicked" data-g-label="other-platforms:windows-7-to-10-64-bit" >Windows 10/8.1/8/7 64-bit</a></li>
+<li class="other-win">
+        <a href="#"  id="js-other-win" class=" js-other-option"  ga-on="click"  ga-event-category="chrome-cta-button" ga-event-action="clicked" ga-event-label="other-platforms:windows-7-to-10-32-bit" data-g-event="chrome-cta-button" data-g-action="clicked" data-g-label="other-platforms:windows-7-to-10-32-bit" >Windows 10/8.1/8/7 32-bit</a></li>
+<li class="other-mac">
+        <a href="#"  id="js-other-mac" class=" js-other-option"  ga-on="click"  ga-event-category="chrome-cta-button" ga-event-action="clicked" ga-event-label="other-platforms:mac-10-10-later" data-g-event="chrome-cta-button" data-g-action="clicked" data-g-label="other-platforms:mac-10-10-later" >Mac OS X 10.10 or later</a></li>
+<li class="other-linux">
+        <a href="#"  id="js-other-linux" class=" js-other-option"  ga-on="click"  ga-event-category="chrome-cta-button" ga-event-action="clicked" ga-event-label="other-platforms:linux" data-g-event="chrome-cta-button" data-g-action="clicked" data-g-label="other-platforms:linux" >Linux</a></li>
+</ul>
+<h4  class="frozen-version" >Frozen versions</h4>
+<ul  class="frozen-version" >
+<li class="other-winXP">
+        <a href="#"  id="js-other-xp" class=" js-other-option"  ga-on="click"  ga-event-category="chrome-cta-button" ga-event-action="clicked" ga-event-label="other-platforms:windows-xp" data-g-event="chrome-cta-button" data-g-action="clicked" data-g-label="other-platforms:windows-xp" >Windows XP</a></li>
+<li class="other-winVista">
+        <a href="#"  id="js-other-vista" class=" js-other-option"  ga-on="click"  ga-event-category="chrome-cta-button" ga-event-action="clicked" ga-event-label="other-platforms:windows-vista" data-g-event="chrome-cta-button" data-g-action="clicked" data-g-label="other-platforms:windows-vista" >Windows Vista</a></li>
+<li class="other-mac49">
+        <a href="#"  id="js-other-mac49" class=" js-other-option"  ga-on="click"  ga-event-category="chrome-cta-button" ga-event-action="clicked" ga-event-label="other-platforms:mac-10-6-to-10-8" data-g-event="chrome-cta-button" data-g-action="clicked" data-g-label="other-platforms:mac-10-6-to-10-8" >Mac 10.6 - 10.8</a></li>
+<li class="other-mac65">
+        <a href="#"  id="js-other-mac65" class=" js-other-option"  ga-on="click"  ga-event-category="chrome-cta-button" ga-event-action="clicked" ga-event-label="other-platforms:mac-10-9" data-g-event="chrome-cta-button" data-g-action="clicked" data-g-label="other-platforms:mac-10-9" >Mac 10.9</a></li>
+</ul>
+</div>
+</div>
+<div id="js-chrome-os-modal" class="chrome-os stablechannel">
+<div class="chr-modal-dialog__header">
+<h2 id="dialog-o-h-os-header">Looks like you’re already using Chrome browser. Nice!</h2>
+</div>
+<div class="chr-modal-dialog__content">
+<p>The device you have runs on Chrome OS, which already has Chrome browser built-in. No need to manually install or update it — with automatic updates, you’ll always get the latest version. <a id="js-chrome-os-update" href="/chrome/security/">Learn more about automatic updates.</a></p>
+<h3>Looking for Chrome for a different operating system?</h3>
+<p>See the <a id="js-chrome-os-other" href="#" class="js-download">full list of supported operating systems</a>.</p>
+</div>
+</div>
+</div>
+</div>
 
 <svg class="svg-assets" xmlns="http://www.w3.org/2000/svg"><!-- material design icons -->
                 <symbol id="mi-arrow-forward" viewBox="0 0 18 18">
