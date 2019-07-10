@@ -29,7 +29,7 @@ Google Chrome Standalone Offline Installer Preview More Download
  
 ---
 
-| Google Chrome Offline | (64-bit) | (32-bit) | Standalone :new: | 
+| Google Chrome Offline | (64-bit) | (32-bit) | Standalone | 
 |-------------|------------|-----|--------|
 | :+1: Download Windows| [Standalone Installer Windows (64-bit)](https://www.google.com/intl/en/chrome/browser/desktop/index.html?standalone=1&platform=win64) | [Standalone Installer Windows (32-bit)](https://www.google.com/intl/en/chrome/browser/desktop/index.html?standalone=1&platform=win) | Full |   
 | :+1: Download Windows| [Standalone Installer (64-bit)](https://www.google.com/intl/en/chrome/?standalone=1&platform=win64) | [Standalone Installer (32-bit)](https://www.google.com/intl/en/chrome/?standalone=1&platform=win) | Full |   
