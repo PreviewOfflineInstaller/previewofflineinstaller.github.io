@@ -24,7 +24,9 @@ Google Chrome Standalone Offline Installer Preview More Download
  <br /> <p>
 
 ---
-- [x] <H3> **`NEW`** Alternative links to download Google Chrome offline installer: </H3>
+ 
+ <H3> :new: Alternative links to download Google Chrome offline installer: </H3>
+ 
 ---
 
 | Google Chrome Offline | (64-bit) | (32-bit) |
