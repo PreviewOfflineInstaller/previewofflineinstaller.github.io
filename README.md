@@ -37,8 +37,8 @@ Google Chrome Standalone Offline Installer Preview More Download
 
 | Google Chrome Offline System |  (64-bit) | (32-bit) | 
 |---------------|---------------|--------------------------|
-| all user accounts | [<H6>Installer for All User Accounts (64-bit)</H6>](https://www.google.com/chrome/?system=true&standalone=1&platform=win64)  | [<H6>Installer for All User Accounts (32-bit)</H6>](https://www.google.com/chrome/?system=true&standalone=1&platform=win) |
-| single user account | [<H6>Installer for Single User Accounts (64-bit)</H6>](https://www.google.com/chrome/?standalone=1&platform=win64) | [<H6>Installer for Single User Accounts (32-bit)</H6>](https://www.google.com/chrome/?standalone=1&platform=win) |
+| all user accounts | [Installer for All User Accounts (64-bit)](https://www.google.com/chrome/?system=true&standalone=1&platform=win64)  | [Installer for All User Accounts (32-bit)](https://www.google.com/chrome/?system=true&standalone=1&platform=win) |
+| single user account | [Installer for Single User Accounts (64-bit)](https://www.google.com/chrome/?standalone=1&platform=win64) | [Installer for Single User Accounts (32-bit)](https://www.google.com/chrome/?standalone=1&platform=win) |
 
 
 
