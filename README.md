@@ -15,7 +15,7 @@ Google Chrome Standalone Offline Installer Preview More Download
 <a href="https://www.google.com/intl/en/chrome/"><img src="https://github.com/PreviewOfflineInstaller/Download.New.Google.Chrome.Offline.Installer/blob/master/icon/Google%7CChrome(September%7C2014).svg" width="150" /></a>
    
 
-### Download Google Chrome Full Standalone Offline Installer
+### [Download Google Chrome Full Standalone Offline Installer](https://www.askvg.com/official-link-to-download-google-chrome-standalone-offline-installer/)
 
 ***
 
@@ -32,6 +32,16 @@ Google Chrome Standalone Offline Installer Preview More Download
 
 
 
+
+***
+
+
+---
+---
+
+[Direct Download Link of Google Chrome 75.0 Offline Installer (64-bit) (56.21 MB)](https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7BC4348067-C07A-AB3A-24D4-49A0F069B2DC%7D%26lang%3Den%26browser%3D3%26usagestats%3D0%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3Dx64-stable-statsdef_1%26installdataindex%3Dempty/chrome/install/ChromeStandaloneSetup64.exe)
+
+[Direct Download Link of Google Chrome 75.0 Offline Installer (32-bit) (55.02 MB)](https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7BC4348067-C07A-AB3A-24D4-49A0F069B2DC%7D%26lang%3Den%26browser%3D3%26usagestats%3D0%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3Dstable-arch_x86-statsdef_1%26installdataindex%3Dempty/chrome/install/ChromeStandaloneSetup.exe)
 
 
 
