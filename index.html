@@ -448,9 +448,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <label for="js-stats-cb" class="chr-checkbox__labelchr-copy">Help make Google Chrome better by automatically sending usage statistics and crash reports to Google.
         <a href="https://www.google.com/support/chrome/bin/answer.py?answer=96817&amp;hl=en"  target="_blank" rel="noopener" ga-on="click"  ga-event-category="chrome-body-link" ga-event-action="clicked" ga-event-label="eula:learn-more" data-g-event="chrome-body-link" data-g-action="clicked" data-g-label="eula:learn-more" >Learn more</a></label></div></div>
 </div>
+                        
 <div class="chr-modal-dialog__buttons">
         <button type="button" class="chr-cta__button chr-cta__button--blue"  id="js-accept-install"  ga-on="click"  ga-event-category="eula" ga-event-action="clicked" ga-event-label="eula-acceptinstall" data-g-event="eula" data-g-action="clicked" data-g-label="eula-acceptinstall"  name="accept" >Accept and Install</button>
-<span id="js-throbber" class="throbber">
+
+        <button type="button" class="eula-u-d-channel-win-stable"  id="js-accept-install"  ga-on="click"  ga-event-category="eula" ga-event-action="clicked" ga-event-label="eula-acceptinstall" data-g-event="eula" data-g-action="clicked" data-g-label="eula-acceptinstall"  name="accept" > (32+bit) Accept and Install</button>
+        <button type="button" class="eula-u-d-channel-win64-stable"  id="js-accept-install"  ga-on="click"  ga-event-category="eula" ga-event-action="clicked" ga-event-label="eula-acceptinstall" data-g-event="eula" data-g-action="clicked" data-g-label="eula-acceptinstall"  name="accept" > (64+bit)Accept and Install</button>
+
+                        
+                        <span id="js-throbber" class="throbber">
       <img src="https://www.google.com/chrome/static/images/chrome_throbber_fast.gif" alt="loading"  srcset="https://www.google.com/chrome/static/images/chrome_throbber_fast.gif, /chrome/static/images/chrome_throbber_fast-2x.gif 2x"  title="loading"  /></span>
 </div>
 </div>
@@ -460,10 +466,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <h4 >Download for another desktop Windows</h4>
 <ul >
 
-<div class="chr-platform-alt-links hero-alt-links">
-<li class="os-alt__link">
-<a href="#"  id="js-other-win" class=" os-alt__link"  ga-on="click"  ga-event-category="chrome-body-link" ga-event-action="clicked" ga-event-action="clicked" ga-event-label="home-stable:win">Windows 10/8.1/8/7 32-bit</a></li>
+<p> <a href="/?platform=win" id="eula-u-d-channel-win-stable" class="os-alt__link"  ga-on="click" ga-event-category="chrome-body-link" ga-event-action="clicked" ga-event-label="home-stable:win">Windows 32-bit</a></p>,
+<p> <a href="/?platform=win64" id="eula-u-d-channel-win64-stable" class="os-alt__link"  ga-on="click" ga-event-category="chrome-body-link" ga-event-action="clicked" ga-event-label="home-stable:win64">Windows 64-bit</a></p>,
 
+                        
                         
 <li class="other-win64">
         <a href="#"  id="js-other-win64" class=" js-other-option"  ga-on="click"  ga-event-category="chrome-cta-button" ga-event-action="clicked" ga-event-label="other-platforms:windows-7-to-10-64-bit" data-g-event="chrome-cta-button" data-g-action="clicked" data-g-label="other-platforms:windows-7-to-10-64-bit" >Windows 10/8.1/8/7 64-bit</a></li>
