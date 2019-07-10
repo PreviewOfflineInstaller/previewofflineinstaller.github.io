@@ -29,14 +29,16 @@ Google Chrome Standalone Offline Installer Preview More Download
  
 ---
 
-| Google Chrome Offline | (64-bit) | (32-bit) |
-|-------------|------------|-----| 
-| Download Preview Windows| [Standalone Installer Windows (64-bit)](https://www.google.com/intl/en/chrome/browser/desktop/index.html?standalone=1&platform=win64) | [Standalone Installer Windows (32-bit)](https://www.google.com/intl/en/chrome/browser/desktop/index.html?standalone=1&platform=win) |
-| Download Preview Windows| [Standalone Installer (64-bit)](https://www.google.com/intl/en/chrome/?standalone=1&platform=win64) | [Standalone Installer (32-bit)](https://www.google.com/intl/en/chrome/?standalone=1&platform=win) |
+| Google Chrome Offline | (64-bit) | (32-bit) | :new: | 
+|-------------|------------|-----|--------|
+| Download Windows| [Preview Standalone Installer Windows (64-bit)](https://www.google.com/intl/en/chrome/browser/desktop/index.html?standalone=1&platform=win64) | [Preview Standalone Installer Windows (32-bit)](https://www.google.com/intl/en/chrome/browser/desktop/index.html?standalone=1&platform=win) | :+1: |   
+| Download Windows| [Standalone Installer (64-bit)](https://www.google.com/intl/en/chrome/?standalone=1&platform=win64) | [Standalone Installer (32-bit)](https://www.google.com/intl/en/chrome/?standalone=1&platform=win) | :+1: |   
 
 
-
-
+| Google Chrome Offline System |  (64-bit) | (32-bit) | 
+|---------------|---------------|--------------------------|
+| all user accounts | [Installer for All User Accounts (64-bit)]()  | [Installer for All User Accounts (32-bit)]() |
+| single user account | [Installer for Single User Accounts (64-bit)]() | [Installer for Single User Accounts (32-bit)]() |
 
 
 
@@ -51,6 +53,8 @@ Google Chrome Standalone Offline Installer Preview More Download
 [Direct Download Link of Google Chrome 75.0 Offline Installer (32-bit) (55.02 MB)](https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7BC4348067-C07A-AB3A-24D4-49A0F069B2DC%7D%26lang%3Den%26browser%3D3%26usagestats%3D0%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3Dstable-arch_x86-statsdef_1%26installdataindex%3Dempty/chrome/install/ChromeStandaloneSetup.exe)
 
 
+
+<!-- all user accounts -->
 
 <!--
 ---
