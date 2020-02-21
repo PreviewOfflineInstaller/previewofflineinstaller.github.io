@@ -122,7 +122,7 @@
     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
     m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-  ga('create', 'UA-26908291-1',
+  ga('create', '', //'UA-26908291-1',
     'auto', {cookiePath: '/chrome/'});
   ga('set', 'referrer', document.referrer.split('?')[0]);
   ga('require', 'eventTracker');
@@ -131,7 +131,10 @@
   });
 
 </script>
-            <script async src="https://www.gstatic.com/external_hosted/autotrack/autotrack.js"></script> <!--<![endif]--><!--[if lte IE 9]>
+            <script async src="https://www.gstatic.com/external_hosted/autotrack/autotrack.js"></script>
+
+	<!--<![endif]--><!--[if lte IE 9]>
+
             <script src="//www.google.com/js/gweb/analytics/autotrack.js"></script>
             <script>
   window.ga = new gweb.analytics.AutoTrack({
